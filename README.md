@@ -41,5 +41,5 @@ Currently exploring data engineering, cloud-based analytics, and contributing to
 Feel free to browse my repositories or reach out for collaboration, feedback, or opportunities:
 
 - 🔗 [LinkedIn]([#](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQHpqDrs59VjjwAAAZaI9tkoDUKkv1T354AF-04GwsBL11paepVHbSxMIWF0Lt2ke2Fd7pKUwaT9SZ48UJB_cdEdpDauYs_NDri_1d3McouCCwkWB7bBoM0llLx1NDE3RW7oXfE=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbolutife-akinlawon-623784193%2F))  
-- 🌍 [Portfolio](#)  
-- 📧 your.email@example.com
+- 🌍 [Portfolio]([#](https://boluakinlawon.netlify.app))  
+
